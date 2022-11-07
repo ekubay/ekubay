@@ -3,17 +3,17 @@ A passionate and devoted junior Data Engineer with a strong background in Python
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohanssamuel&label=Profile%20views&color=0e75b6&style=flat" alt="ekubay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohanssamuel" alt="yohanssamuel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekubay" alt="ekubay" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yohanssamuel14" target="blank"><img src="https://img.shields.io/twitter/follow/yohanssamuel14?logo=twitter&style=for-the-badge" alt="yohanssamuel14" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/yohanssamuel14" target="blank"><img src="https://img.shields.io/twitter/follow/yohanssamuel14?logo=twitter&style=for-the-badge" alt="yohanssamuel14" /></a> </p> -->
 
-- 🌱 I’m currently learning React,Machine Learning,Data & Web 3 Engineering.
+- 🌱 I’m currently learning achine Learning,Data & Web 3 Engineering.
 
-- 👯 I’m looking to collaborate on python and javascript projects
+- 👯 I’m looking to Job in data engineer, data analyst and Machine learning
 
-- 📫 How to reach me yohanssamuel2014@gmail.com
+- 📫 How to reach me axutec14@gmail.com
 
-- ⚡️ Fun fact I love history tv shows
+- ⚡️ Fun fact I love football
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
