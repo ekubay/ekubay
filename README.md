@@ -6,7 +6,7 @@ A junior data engineer with computer science background and have ability to buil
 
 <!-- <p align="left"> <a href="https://twitter.com/yohanssamuel14" target="blank"><img src="https://img.shields.io/twitter/follow/yohanssamuel14?logo=twitter&style=for-the-badge" alt="yohanssamuel14" /></a> </p> -->
 
-- 🌱 I’m currently learning achine Learning,Data & Web 3 Engineering.
+- 🌱 I’m currently completing achine Learning,Data & Web 3 Engineering.
 
 - 👯 I’m looking to Job in data engineer, data analyst and Machine learning
 
