@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akubazgi Gebremariam</h1>
-A junior data engineer with computer science background and have ability to build scalable data pipelines with ETL, DBT, apache frameworks such as Kafka and Spark. Skillful in Python and SQL programming, git version control and bash.  He can be able to extract, preprocess and transform data into usable form. He has also ability to perform data analytics, reporting and build dashboards.
+A junior Data Engineer and Data Analyst with computer science background and have ability to build scalable data pipelines with ETL, DBT, apache frameworks such as Kafka and Spark. Skillful in Python and SQL programming, git version control and bash.  He can be able to extract, preprocess and transform data into usable form. He has also ability to perform data analytics, reporting and build dashboards.
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekubay&label=Profile%20views&color=0e75b6&style=flat" alt="ekubay" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekubay" alt="ekubay" /></a> </p> -->
